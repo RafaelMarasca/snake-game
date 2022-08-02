@@ -16,7 +16,7 @@ $ python snake.py
 ### SCREENSHOTS
 
 <p align="center">
-<img src="https://github.com/RafaelMarasca/media/blob/main/snake_screenshots/snake2.png?raw=true" width="250">
+<img src="assets/screenshots/snake2.png?raw=true" width="250">
 
-<img src="https://github.com/RafaelMarasca/media/blob/main/snake_screenshots/snake1.png?raw=true" width="250">
+<img src="assets/screenshots/snake1.png?raw=true" width="250">
 </p>
