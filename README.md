@@ -1,6 +1,6 @@
 # SNAKE GAME
 
-Implementação do Jogo SNAKE utilizando python 3 e pygame 2.1.2.
+Implementação do Jogo SNAKE utilizando Python 3 e PyGame 2.1.2.
 
 ### COMO JOGAR
 
